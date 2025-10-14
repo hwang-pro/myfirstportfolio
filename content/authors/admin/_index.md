@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: 황경재
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: '전북대 산업정보시스템공학과, 컴퓨터인공지능학부'
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 정보보안/웹해킹에 관심이 있습니다.
 
 #interests:
 #- Artificial Intelligence
@@ -42,15 +42,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: Kakaotalk
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://github.com/hwang-pro/myfirstportfolio
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/hwangpercy/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
