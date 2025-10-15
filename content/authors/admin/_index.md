@@ -42,9 +42,9 @@ bio: 정보보안/웹해킹에 관심이 있습니다.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: kakaotalk_icon
-    icon_pack: custom
-    link: '/kakaotalk_icon.svg' # For a direct email link, use "mailto:test@example.org".
+  - icon: comments
+    icon_pack: fas
+    link: '/kakao_profile.jpg' # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
     link: https://github.com/hwang-pro/myfirstportfolio
