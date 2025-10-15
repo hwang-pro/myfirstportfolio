@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: 웹공부
+      tag: web
+    - name: 웹 해킹 공부
+      tag: webhack
+    - name: CTF/WARGAME 문제풀이
+      tag: dreamhack solving
 
 design:
   columns: '1'
