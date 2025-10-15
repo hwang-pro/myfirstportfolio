@@ -44,13 +44,14 @@ bio: 정보보안/웹해킹에 관심이 있습니다.
 social:
   - icon: comments
     icon_pack: fas
-    link: "/kakao_profile.jpg" # For a direct email link, use "mailto:test@example.org".
+    link: "myfirstportfolio/kakao_profile.jpg"
   - icon: github
     icon_pack: fab
     link: "https://github.com/hwang-pro/myfirstportfolio"
   - icon: instagram
     icon_pack: fab
     link: "https://www.instagram.com/hwangpercy/"
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
