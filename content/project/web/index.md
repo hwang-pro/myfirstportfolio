@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
+title: 웹공부 
 summary: Write about your project here...
 tags:
-  - CV
-date: 2022-01-01
+  - web
+date: 2025-10-16
 external_link: http://github.com
 ---

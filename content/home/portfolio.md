@@ -33,7 +33,7 @@ content:
     - name: 웹 해킹 공부
       tag: webhack
     - name: CTF/WARGAME 문제풀이
-      tag: dreamhack solving
+      tag: dreamhack
 
 design:
   columns: '1'

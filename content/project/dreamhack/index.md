@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
+title: CTF/WARGAME 문제풀이
 summary: Write about your project here...
 tags:
-  - ML
-date: 2022-01-01
+  - dreamhack
+date: 2025-10-16
 external_link: http://github.com
 ---
