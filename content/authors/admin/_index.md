@@ -44,7 +44,7 @@ bio: 정보보안/웹해킹에 관심이 있습니다.
 social:
   - icon: comments
     icon_pack: fas
-    link: "https://hwang-pro.github.io/myfirstportfolio/kakao_profile.jpg"
+    link: "/myfirstportfolio/kakao_profile.jpg"   
   - icon: github
     icon_pack: fab
     link: "https://github.com/hwang-pro/myfirstportfolio"
