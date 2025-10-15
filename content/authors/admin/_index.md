@@ -44,7 +44,7 @@ bio: 정보보안/웹해킹에 관심이 있습니다.
 social:
   - icon: kakaotalk_icon
     icon_pack: custom
-    link: '/media/icons/custom/kakaotalk_icon.svg' # For a direct email link, use "mailto:test@example.org".
+    link: '/kakaotalk_icon.svg' # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
     link: https://github.com/hwang-pro/myfirstportfolio
