@@ -41,3 +41,5 @@ design:
   image:
     fit: cover     
     width: 70%     
+
+---
