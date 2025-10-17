@@ -36,9 +36,8 @@ content:
       tag: dreamhack
 
 design:
-  columns: '1'
   view: masonry
-  flip_alt_rows: true
-  background: {}
-  spacing: {padding: [0, 0, 0, 0]}
----
+  columns: "1"
+  image:
+    fit: cover     
+    width: 70%     
