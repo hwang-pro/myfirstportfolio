@@ -1,6 +1,6 @@
 ---
 title: 웹공부 
-summary: Write about your project here...
+summary: 웹 공부 기록을 남깁니다.
 tags:
   - web
 date: 2025-03-03
