@@ -75,3 +75,14 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+  markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  search:
+    provider: pagefind
+    resultsPerPage: 10
+
