@@ -3,8 +3,17 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
+ko:
+  languageCode: ko
+  languageName: 한국어
+  weight: 1
+  title: 황경재 포트폴리오
+  
 en:
   languageCode: en-us
+  languageName: English
+  weight: 2
+  title: Hwang Kyeong jae Portfolio
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
