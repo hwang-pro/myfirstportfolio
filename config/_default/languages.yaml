@@ -4,16 +4,22 @@
 
 # Default language
 ko:
-  languageCode: ko
+  languageCode: ko-kr
   languageName: 한국어
   weight: 1
+  contentDir: content/ko
   title: 황경재 포트폴리오
+  params:
+    description: 정보보안 학생 포트폴리오
   
 en:
   languageCode: en-us
   languageName: English
   weight: 2
-  title: Hwang Kyeong jae Portfolio
+  contentDir: content/en
+  title: Hwang Kyungjae Portfolio
+  params:
+    description: Information Security Student Portfolio
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
