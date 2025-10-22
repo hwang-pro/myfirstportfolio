@@ -1,4 +1,4 @@
 ---
 title: 홈
-type: landing
+type: widget_page
 ---
