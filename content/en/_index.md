@@ -1,4 +1,4 @@
 ---
-title: Home
+title: "Home"
 type: widget_page
 ---
