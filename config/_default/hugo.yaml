@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hugo Portfolio Theme # Website name
-baseURL: "https://hwang-pro.github.io/myfirstportfolio/"
-canonifyURLs: true
+baseURL: 'https://example.com/' # Website URL
+
 ############################
 ## PAGE OPTIONS
 ############################
