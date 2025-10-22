@@ -1,4 +1,4 @@
 ---
-title: 홈
+title: Home
 type: landing
 ---
