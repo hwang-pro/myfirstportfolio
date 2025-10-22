@@ -1,8 +1,7 @@
 ---
-widget: search
-headless: true
+title: Search
+type: Search
 weight: 60
-active: true
 design:
-  columns: '1'
+  show_title: false
 ---
