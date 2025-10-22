@@ -1,9 +1,6 @@
-############################
-## HUGO MODULES
-## Install or uninstall themes and plugins here.
-## Docs: https://gohugo.io/hugo-modules/
-############################
+# config/_default/module.yaml
 
 imports:
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-core/v1   # ← 추가
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
