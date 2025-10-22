@@ -4,7 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hugo Portfolio Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+# Set to your GitHub Pages project URL so all links include the repository path.
+# For this repo (`hwang-pro/myfirstportfolio`), the site is served from
+# https://hwang-pro.github.io/myfirstportfolio/
+baseURL: 'https://hwang-pro.github.io/myfirstportfolio/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -28,6 +31,7 @@ defaultContentLanguage: ko
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+canonifyURLs: true
 
 ############################
 ## ADVANCED
