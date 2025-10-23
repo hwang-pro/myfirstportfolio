@@ -1,13 +1,12 @@
 ---
 widget: slider
+headless: true
 weight: 1
 active: true
 
 design:
-  # 슬라이드 높이 (px)
-  slide_height: '400px'
+  slide_height: '500px'
   is_fullscreen: false
-  # 자동 전환 (밀리초)
   loop: true
   interval: 3000
 
@@ -18,31 +17,31 @@ content:
       align: center
       background:
         image:
-          filename: slides/slide1.jpg
+          filename: slides/slide1.jpg.jpg
           filters:
             brightness: 0.7
         position: center
-        color: '#666'
+        color: '#555'
     
     - title: 웹 해킹 연구
       content: 다양한 웹 취약점 분석 및 연구
       align: center
       background:
         image:
-          filename: slides/slide2.jpg
+          filename: slides/slide2.jpg.jpg
           filters:
             brightness: 0.7
         position: center
-        color: '#666'
+        color: '#555'
     
     - title: CTF/WARGAME
       content: 실전 문제 해결 능력 향상
       align: center
       background:
         image:
-          filename: slides/slide3.jpg
+          filename: slides/slide3.jpg.jpg
           filters:
             brightness: 0.7
         position: center
-        color: '#666'
+        color: '#555'
 ---
