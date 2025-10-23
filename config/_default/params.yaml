@@ -40,6 +40,28 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    menu:
+      - name: 홈
+        url: /
+        weight: 10
+      - name: 자기소개
+        url: about/
+        weight: 20
+      - name: 프로젝트
+        url: project/
+        weight: 30
+        hasChildren: true
+      - name: 학교 프로젝트
+        parent: 프로젝트
+        url: project/school/
+        weight: 31
+      - name: 개인 프로젝트
+        parent: 프로젝트
+        url: project/personal/
+        weight: 32
+      - name: 연락처
+        url: about/contact/
+        weight: 40
 
 footer:
   copyright:
