@@ -56,25 +56,7 @@ content:
       link: "https://blog.naver.com/curry2478"
       label: "네이버 블로그"
 
-design:
-  columns: '2'
-  background:
-    gradient_start: "#4facfe"
-    gradient_end: "#00f2fe"
-    gradient_direction: "135deg"
-    text_color_light: true
-    image: ""
-    image_darken: 0.3
-    image_size: "cover"
-    image_position: "center"
-    image_parallax: false
-  spacing:
-    padding: ["40px", "0", "40px", "0"]
-  card:
-    background_color: "rgba(255, 255, 255, 0.1)"
-    border_radius: "20px"
-    border: "1px solid rgba(255, 255, 255, 0.2)"
-    box_shadow: "0 8px 32px rgba(0, 0, 0, 0.1)"
+
 ---
 
 <div style="margin-top: 30px; text-align: center;">
