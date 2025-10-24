@@ -51,6 +51,18 @@ social:
   - icon: instagram
     icon_pack: fab
     link: "https://www.instagram.com/hwangpercy/"
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:hwangpercy@gmail.com"
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/hwangpercy/"
+  - icon: twitter
+    icon_pack: fab
+    link: "https://twitter.com/hwangpercy"
+  - icon: youtube
+    icon_pack: fab
+    link: "https://www.youtube.com/@hwangpercy"
 
 # Uncomment below for Github link
 #- icon: github
