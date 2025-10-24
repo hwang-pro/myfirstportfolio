@@ -59,8 +59,8 @@ content:
 design:
   columns: '2'
   background:
-    gradient_start: "#667eea"
-    gradient_end: "#764ba2"
+    gradient_start: "#4facfe"
+    gradient_end: "#00f2fe"
     gradient_direction: "135deg"
     text_color_light: true
     image: ""
