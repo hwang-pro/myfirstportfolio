@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
-title: Experience
+title: Education
 subtitle:
 
 # Date format for experience
@@ -22,19 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 나의 경력 
-    company: Rams(컴퓨터 인공지능 과 동아리리)
+  - title: MEng Electronic Engineering
+    company: University X
     company_url: ''
-    location: 전주시
-    date_start: '2024-01-01'
-    date_end: ''
+    company_logo: org-x
+    location: California
+    date_start: '2021-01-01'
+    date_end: '2022-01-01'
     description: |2-
-        활동사항:
-        
-        * CTF/Wargame
-        * 공모전/자격증 트랙
-        * Bug Bounty
+        * Dissertation on Y
+        * Basketball team
+        * DJ club
 
+  - title: BEng Electronic Engineering
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: My dissertation was on X
 
 design:
   columns: '1'
