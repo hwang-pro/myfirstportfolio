@@ -6,6 +6,9 @@
 title: 황경재 portfolio # Website name
 baseURL: 'https://hwang-pro.github.io/myfirstportfolio/' # Website URL
 
+# Google Analytics (GA4)
+googleAnalytics: ""  # Google Analytics ID (예: G-XXXXXXXXXX)
+
 ############################
 ## PAGE OPTIONS
 ############################
