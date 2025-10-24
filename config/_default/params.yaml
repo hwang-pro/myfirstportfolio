@@ -18,6 +18,7 @@ appearance:
 # SEO
 
 marketing:
+  google_analytics: ""  # Google Analytics ID (예: G-XXXXXXXXXX)
   seo:
     site_type: Person
     local_business_type: ''
@@ -46,8 +47,8 @@ header:
     show_title: true  # 사이트 제목 표시
     highlight_active_link: false
     logo:
-      text:""
-      image: media/logo.png # 텍스트 로고
+      text: ""  # 빈 텍스트
+      image: media/logo.png  # 이미지 로고
     menu:
       - name: 홈
         url: /
