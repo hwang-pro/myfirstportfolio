@@ -18,6 +18,7 @@ appearance:
 # SEO
 
 marketing:
+  google_analytics: false
   seo:
     site_type: Person
     local_business_type: ''
