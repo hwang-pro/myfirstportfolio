@@ -53,13 +53,13 @@ content:
 
   # Map settings
   map:
-    provider: "openstreetmap"
-    latitude: 35.8242
-    longitude: 127.1480
+    provider: "google"
+    latitude: 35.8470513725341
+    longitude: 127.13184297699142
     zoom: 15
     marker:
-      latitude: 35.8242
-      longitude: 127.1480
+      latitude: 35.8470513725341
+      longitude: 127.13184297699142
       title: "전북대학교"
       description: "전주 최고의 대학"
 
