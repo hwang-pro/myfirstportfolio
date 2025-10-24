@@ -23,6 +23,6 @@ main:
     weight: 32
   
   - name: 연락처
-    url: about/contact/
-    
+    url: contact/
+
     weight: 40
