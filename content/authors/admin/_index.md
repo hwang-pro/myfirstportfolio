@@ -42,27 +42,29 @@ bio: 정보보안/웹해킹에 관심이 있습니다.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: comments
+  # 전북대 정보시스템공학과
+  - icon: university
     icon_pack: fas
-    link: "/myfirstportfolio/kakao_profile.jpg"   
-  - icon: github
-    icon_pack: fab
-    link: "https://github.com/hwang-pro/myfirstportfolio"
-  - icon: instagram
-    icon_pack: fab
-    link: "https://www.instagram.com/hwangpercy/"
-  - icon: envelope
+    link: https://ise.jbnu.ac.kr/ise/index.do
+    label: 전북대 정보시스템공학과
+    display:
+      header: false
+      
+  # 전북대 컴퓨터인공지능학부  
+  - icon: robot
     icon_pack: fas
-    link: "mailto:hwangpercy@gmail.com"
-  - icon: linkedin
-    icon_pack: fab
-    link: "https://www.linkedin.com/in/hwangpercy/"
-  - icon: twitter
-    icon_pack: fab
-    link: "https://twitter.com/hwangpercy"
-  - icon: youtube
-    icon_pack: fab
-    link: "https://www.youtube.com/@hwangpercy"
+    link: https://csai.jbnu.ac.kr/csai/index.do
+    label: 전북대 컴퓨터인공지능학부
+    display:
+      header: false
+      
+  # 네이버 블로그
+  - icon: blog
+    icon_pack: fas
+    link: https://blog.naver.com/curry2478
+    label: My Blog
+    display:
+      header: false
 
 # Uncomment below for Github link
 #- icon: github
