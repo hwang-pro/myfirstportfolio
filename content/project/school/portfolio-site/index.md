@@ -6,7 +6,7 @@ tags:
   - web
   - portfolio
   - school
-date: 2024-02-20
+
 
 image:
   filename: "portfolio.jpg"

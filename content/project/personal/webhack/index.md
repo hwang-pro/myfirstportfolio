@@ -8,7 +8,7 @@ tags:
   - vulnerability
   - personal
 date: 2022-01-01
-external_link: http://github.com
+
 
 image:
   filename: "web_hack.png"
