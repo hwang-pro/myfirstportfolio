@@ -5,7 +5,7 @@ tags:
   - personal
   - study
   - organization
-date: 2024-03-10
+
 
 image:
   filename: "study.jpg"
