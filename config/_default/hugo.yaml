@@ -7,6 +7,7 @@ title: 황경재 portfolio # Website name
 baseURL: 'https://hwang-pro.github.io/myfirstportfolio/' # Website URL
 
 # Disable Google Analytics completely
+googleAnalytics: ""
 disableAnalytics: true
 
 ############################
