@@ -91,8 +91,7 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+안녕하세요 저는 현재 전북대학교에 재학중인 황경재입니다. 
+저는 산업정보시스템공학과이고 부전공으로는 컴퓨터 인공지능학과입니다. 저는 정보보안에 관심있으며 그중에서 웹해킹분야에 관심이 있어 공부하고 있습니다.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
