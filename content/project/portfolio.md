@@ -2,14 +2,12 @@
 widget: portfolio
 headless: true
 weight: 10
-
 title: '프로젝트 목록'
 subtitle: ''
 
 content:
   page_type: project
   filter_default: 0
-  
   filter_button:
     - name: All
       tag: '*'
@@ -23,3 +21,4 @@ content:
 design:
   view: card
   columns: '2'
+---
