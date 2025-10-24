@@ -42,6 +42,16 @@ bio: 정보보안/웹해킹에 관심이 있습니다.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: comments
+    icon_pack: fas
+    link: "/myfirstportfolio/kakao_profile.jpg"   
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/hwang-pro/myfirstportfolio"
+  - icon: instagram
+    icon_pack: fab
+    link: "https://www.instagram.com/hwangpercy/"
+  
   # 전북대 정보시스템공학과
   - icon: university
     icon_pack: fas
