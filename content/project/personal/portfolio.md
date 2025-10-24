@@ -2,7 +2,8 @@
 widget: portfolio
 headless: true
 weight: 10
-title: '프로젝트 목록'
+
+title: '개인 프로젝트 목록'
 subtitle: ''
 
 content:
