@@ -19,9 +19,4 @@ title: "👋 안녕하세요!"
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 author: admin
 
-design:
-  background:
-    gradient_start: "#4c2a4e"
-    gradient_end: "#8d5a97"
-    text_color_light: true
 ---
