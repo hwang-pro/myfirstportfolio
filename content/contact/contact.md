@@ -28,15 +28,6 @@ content:
   
   # Business hours
   appointment_url: ""
-  
-  # Contact form
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
 
   # Social media links
   social:
