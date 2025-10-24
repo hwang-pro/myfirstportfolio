@@ -1,4 +1,4 @@
 ---
-title: 자기소개
+title: 연락처
 type: widget_page
 ---

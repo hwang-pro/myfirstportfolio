@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 20
 
 title: "📞 연락처"
 subtitle: "언제든지 연락주세요! 함께 소통하고 성장해요 🚀"
@@ -26,6 +26,8 @@ content:
     country: "대한민국"
     country_code: "KR"
   
+  # Business hours
+  appointment_url: ""
   
   # Contact form
   form:
@@ -50,21 +52,25 @@ content:
       icon_pack: fas
       link: "mailto:curry2478@naver.com"
       label: "Email"
-
- 
+    - icon: university
+      icon_pack: fas
+      link: "https://ise.jbnu.ac.kr/ise/index.do"
+      label: "전북대 정보시스템공학과"
+    - icon: robot
+      icon_pack: fas
+      link: "https://csai.jbnu.ac.kr/csai/index.do"
+      label: "전북대 컴퓨터인공지능학부"
+    - icon: blog
+      icon_pack: fas
+      link: "https://blog.naver.com/curry2478"
+      label: "네이버 블로그"
 
 design:
   columns: '2'
   background:
-    color: "#f8f9fa"
     gradient_start: "#667eea"
     gradient_end: "#764ba2"
     gradient_direction: "135deg"
-    image: ""
-    image_darken: 0.5
-    image_size: "cover"
-    image_position: "center"
-    image_parallax: false
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
