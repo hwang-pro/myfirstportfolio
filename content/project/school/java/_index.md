@@ -6,6 +6,11 @@ tags:
   - programming
   - school
 date: 2024-01-01
+
+image:
+  filename: "java.png"
+  focal_point: "Center"
+  preview_only: false
 ---
 
 ## 🎯 학습 목표

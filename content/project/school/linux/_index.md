@@ -6,6 +6,11 @@ tags:
   - system
   - school
 date: 2024-01-15
+
+image:
+  filename: "linux.png"
+  focal_point: "Center"
+  preview_only: false
 ---
 
 ## 🎯 학습 목표

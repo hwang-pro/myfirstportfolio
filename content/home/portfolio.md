@@ -28,12 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: 웹공부
-      tag: web
-    - name: 웹 해킹 공부
-      tag: webhack
-    - name: CTF/WARGAME 문제풀이
-      tag: dreamhack
+    - name: 개인 프로젝트
+      tag: personal
+    - name: 학교 프로젝트
+      tag: school
 
 design:
   view: masonry

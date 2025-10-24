@@ -6,6 +6,7 @@ tags:
   - frontend
   - backend
   - development
+  - personal
 date: 2025-03-03
 external_link: http://github.com
 

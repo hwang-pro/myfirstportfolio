@@ -6,6 +6,7 @@ tags:
   - security
   - penetration-testing
   - vulnerability
+  - personal
 date: 2022-01-01
 external_link: http://github.com
 
