@@ -1,194 +1,83 @@
-// Starter Blog Template
-// https://hugoblox.com/hugo-themes/
+/* Hugo 데모 템플릿 스타일 - 버튼 호버 이벤트 */
 
-body {
-  background-color: rgb(247, 250, 252);
+/* 포트폴리오 필터 버튼 스타일 */
+.pub-filters {
+  text-align: center;
+  margin: 2rem 0;
 }
 
-.article-container {
-  background-color: #fff;
-  border-radius: 15px;
+.pub-filters .btn {
+  margin: 0.25rem;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  background-color: #f8f9fa;
+  border: 2px solid #dee2e6;
+  color: #495057;
+  font-weight: 500;
 }
 
-.dark .article-container {
-  background-color: rgb(31, 39, 51);
+/* 버튼 호버 이벤트 - 색상 변경 */
+.pub-filters .btn:hover {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3);
 }
 
-// custom footer color
-.page-footer {
-  background-color: rgb(247, 250, 252);
+/* 활성 버튼 스타일 */
+.pub-filters .btn.active {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: white;
 }
 
-.dark .page-footer {
-  background-color: rgb(26, 32, 44);
-}
-
-// Smaller card sizes
-.card-simple {
-  margin-top: 1.8rem;
-  border-radius: 15px;
-  padding: 1rem; // Reduce padding
-}
-
-// Smaller project cards
+/* 포트폴리오 카드 호버 효과 */
 .card {
-  margin-bottom: 1rem; // Reduce margin between cards
-  border-radius: 12px; // Slightly smaller border radius
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  overflow: hidden;
 }
 
-.card-body {
-  padding: 1rem; // Reduce card body padding
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
 
-// Smaller card titles
-.card-title {
-  font-size: 1.1rem; // Reduce title size
-  margin-bottom: 0.5rem;
+/* 카드 이미지 호버 효과 */
+.card img {
+  transition: transform 0.3s ease;
 }
 
-// Smaller card text
-.card-text {
-  font-size: 0.9rem; // Reduce text size
-  line-height: 1.4;
+.card:hover img {
+  transform: scale(1.05);
 }
 
-// Smaller portfolio cards
-.portfolio-card {
-  margin-bottom: 1rem;
-  border-radius: 12px;
+/* 네비게이션 버튼 호버 효과 */
+.navbar-nav .nav-link {
+  transition: color 0.3s ease;
 }
 
-.portfolio-card .card-img-top {
-  height: 150px; // Reduce image height
-  object-fit: cover;
+.navbar-nav .nav-link:hover {
+  color: #007bff !important;
 }
 
-// Smaller experience/education cards
-.experience-card,
-.education-card {
-  margin-bottom: 1rem;
-  padding: 1rem;
-  border-radius: 12px;
+/* 일반 버튼 호버 효과 */
+.btn {
+  transition: all 0.3s ease;
 }
 
-// Reduce widget card sizes
-.widget-card {
-  margin-bottom: 1rem;
-  border-radius: 12px;
+.btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-.widget-card .card-body {
-  padding: 1rem;
+/* 링크 호버 효과 */
+a {
+  transition: color 0.3s ease;
 }
 
-.dark .card-simple {
-  background: rgb(31, 39, 51);
-}
-
-.dark .card {
-  background: rgb(31, 39, 51);
-  border-color: rgb(55, 65, 81);
-}
-
-.dark .card-body {
-  background: rgb(31, 39, 51);
-}
-
-.dark .portfolio-card {
-  background: rgb(31, 39, 51);
-  border-color: rgb(55, 65, 81);
-}
-
-.dark .experience-card,
-.dark .education-card {
-  background: rgb(31, 39, 51);
-  border-color: rgb(55, 65, 81);
-}
-
-.dark .widget-card {
-  background: rgb(31, 39, 51);
-  border-color: rgb(55, 65, 81);
-}
-
-// no navbar shadow
-.navbar {
-  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
-}
-
-// custom section padding
-.home-section {
-  padding: 1rem 0;
-}
-
-.home-section.wg-about-avatar {
-  padding: 0;
-}
-
-#profile .network-icon {
-  margin-top: 0.5rem;
-}
-
-ul.network-icon .big-icon {
-  font-size: 1.5rem;
-}
-
-.dark .portrait-title h3 {
-  color: rgba(255, 255, 255, 0.9);
-  font-weight: bold;
-}
-
-.dark .portrait-title h2 {
-  color: #fff;
-  font-weight: bold;
-}
-
-.home-section > .content {
-  width: 45em;
-  max-width: calc(100% - 4em);
-  margin: 0 auto;
-}
-
-.home-section > .content > :last-child {
-  margin-bottom: 0;
-}
-
-.home-section header {
-  margin-bottom: 1em;
-}
-
-// Narrower container for Hello World sections (primarily Blank widget content).
-@media (min-width: 1200px) {
-  .home-section .container {
-    max-width: 880px;
-  }
-}
-@media (min-width: 992px) {
-  .home-section .container {
-    max-width: 880px;
-  }
-}
-
-// Custom avatar size on homepage
-.avatar {
-  width: auto;
-  height: auto;
-  max-width: 225px;
-  max-height: 225px;
-}
-
-// Prevent stretching on About page with narrow container
-.wg-about .avatar {
-  width: auto;
-  height: auto;
-  max-width: 200px;
-  max-height: 200px;
-}
-
-// Smaller Name and Role text on About page than in homepage `about.avatar` widget
-.wg-about .portrait-title h2 {
-  font-size: 1rem;
-}
-
-.wg-about .portrait-title h3 {
-  font-size: 0.8rem;
+a:hover {
+  color: #007bff;
 }
