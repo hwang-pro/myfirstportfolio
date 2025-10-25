@@ -1,0 +1,31 @@
+main:
+  - name: Home
+    url: /en/
+    weight: 10
+  
+  - name: About
+    url: /en/about
+    weight: 20
+  
+  - name: Projects
+    url: /en/project
+    weight: 30
+    hasChildren: true
+  
+  - name: School Projects
+    parent: Projects
+    url: /en/project/school
+    weight: 31
+  
+  - name: Personal Projects
+    parent: Projects
+    url: /en/project/personal
+    weight: 32
+  
+  - name: Contact
+    url: /en/contact
+    weight: 40
+  
+  - name: 한국어
+    url: /ko/
+    weight: 50

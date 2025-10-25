@@ -17,31 +17,6 @@ languages:
       keywords: 황경재, 전북대, 정보보안, 웹해킹, CTF, 웹개발, 포트폴리오
       language: ko
       language_selector: true
-    menus:
-      main:
-        - name: 홈
-          url: /ko/
-          weight: 10
-        - name: 자기소개
-          url: /ko/about
-          weight: 20
-        - name: 프로젝트
-          url: /ko/project
-          weight: 30
-          children:
-            - name: 학교 프로젝트
-              url: /ko/project/school
-              weight: 1
-            - name: 개인 프로젝트
-              url: /ko/project/personal
-              weight: 2
-        - name: 연락처
-          url: /ko/contact
-          weight: 40
-        - name: English
-          url: /en/
-          weight: 50
-        
   
   en:
     languageName: English
@@ -52,29 +27,6 @@ languages:
       keywords: Hwang Kyung-jae, JBNU, information security, web hacking, CTF, web development
       language: en
       language_selector: true
-    menus:
-      main:
-        - name: Home
-          url: /
-          weight: 10
-        - name: About
-          url: /about
-          weight: 20
-        - name: Projects
-          url: /project
-          weight: 30
-          children:
-            - name: School Projects
-              url: /project/school
-              weight: 1
-            - name: Personal Projects
-              url: /project/personal
-              weight: 2
-        - name: Contact
-          url: /contact
-          weight: 40
-        
-
 # 언어 전환 설정
 defaultContentLanguage: ko
 defaultContentLanguageInSubdir: true
