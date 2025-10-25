@@ -25,8 +25,4 @@ main:
   - name: 연락처
     url: /ko/contact
     weight: 40
-  
-  - name: English
-    url: /en/
-    weight: 50
-  
+ 
