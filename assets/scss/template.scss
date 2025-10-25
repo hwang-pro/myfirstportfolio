@@ -23,14 +23,91 @@ body {
   background-color: rgb(26, 32, 44);
 }
 
-// more rounded cards and larger gap between cards
+// Smaller card sizes
 .card-simple {
   margin-top: 1.8rem;
   border-radius: 15px;
+  padding: 1rem; // Reduce padding
+}
+
+// Smaller project cards
+.card {
+  margin-bottom: 1rem; // Reduce margin between cards
+  border-radius: 12px; // Slightly smaller border radius
+}
+
+.card-body {
+  padding: 1rem; // Reduce card body padding
+}
+
+// Smaller card titles
+.card-title {
+  font-size: 1.1rem; // Reduce title size
+  margin-bottom: 0.5rem;
+}
+
+// Smaller card text
+.card-text {
+  font-size: 0.9rem; // Reduce text size
+  line-height: 1.4;
+}
+
+// Smaller portfolio cards
+.portfolio-card {
+  margin-bottom: 1rem;
+  border-radius: 12px;
+}
+
+.portfolio-card .card-img-top {
+  height: 150px; // Reduce image height
+  object-fit: cover;
+}
+
+// Smaller experience/education cards
+.experience-card,
+.education-card {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 12px;
+}
+
+// Reduce widget card sizes
+.widget-card {
+  margin-bottom: 1rem;
+  border-radius: 12px;
+}
+
+.widget-card .card-body {
+  padding: 1rem;
 }
 
 .dark .card-simple {
   background: rgb(31, 39, 51);
+}
+
+.dark .card {
+  background: rgb(31, 39, 51);
+  border-color: rgb(55, 65, 81);
+}
+
+.dark .card-body {
+  background: rgb(31, 39, 51);
+}
+
+.dark .portfolio-card {
+  background: rgb(31, 39, 51);
+  border-color: rgb(55, 65, 81);
+}
+
+.dark .experience-card,
+.dark .education-card {
+  background: rgb(31, 39, 51);
+  border-color: rgb(55, 65, 81);
+}
+
+.dark .widget-card {
+  background: rgb(31, 39, 51);
+  border-color: rgb(55, 65, 81);
 }
 
 // no navbar shadow

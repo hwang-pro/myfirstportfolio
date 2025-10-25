@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 황경재 (전북대 정보보안 학생)
+title: 황경재
 
 # Is this the primary user of the site?
 superuser: true
