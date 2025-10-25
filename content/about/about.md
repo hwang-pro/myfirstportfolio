@@ -19,3 +19,30 @@ title: Hello
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 author: admin
 ---
+
+<style>
+.wg-about .portrait-title h2,
+.wg-about .portrait-title h3 {
+  text-align: center !important;
+}
+
+.wg-about .portrait-title h2 {
+  font-size: 1.2rem !important;
+  color: #2c3e50 !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.wg-about .portrait-title h3 {
+  font-size: 1rem !important;
+  color: #7f8c8d !important;
+  font-weight: normal !important;
+}
+
+.wg-about .network-icon {
+  text-align: center !important;
+}
+
+.wg-about .network-icon .big-icon {
+  margin: 0.3rem !important;
+}
+</style>
