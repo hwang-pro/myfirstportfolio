@@ -1,22 +1,22 @@
 main:
   - name: Home
-    url: /
+    url: https://hwang-pro.github.io/myfirstportfolio/en/
     weight: 10
   - name: About
-    url: /about
+    url: https://hwang-pro.github.io/myfirstportfolio/en/about
     weight: 20
   - name: Projects
-    url: /project
+    url: https://hwang-pro.github.io/myfirstportfolio/en/project
     weight: 30
     hasChildren: true
   - name: School Projects
     parent: Projects
-    url: /project/school
+    url: https://hwang-pro.github.io/myfirstportfolio/en/project/school
     weight: 31
   - name: Personal Projects
     parent: Projects
-    url: /project/personal
+    url: https://hwang-pro.github.io/myfirstportfolio/en/project/personal
     weight: 32
   - name: Contact
-    url: /contact
+    url: https://hwag-pro.github.io/myfirstportfolio/en/contact
     weight: 40
