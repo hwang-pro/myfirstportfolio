@@ -30,7 +30,7 @@ languages:
 # 언어 전환 설정
 defaultContentLanguage: ko
 hasCJKLanguage: true
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 # 다국어 UI 활성화
