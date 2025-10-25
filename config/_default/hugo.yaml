@@ -52,23 +52,23 @@ languages:
     menus:
       main:
         - name: Home
-          url: /
+          url: /en/
           weight: 10
         - name: About
-          url: /about
+          url: /en/about
           weight: 20
         - name: Projects
-          url: /project
+          url: /en/project
           weight: 30
           children:
             - name: School Projects
-              url: /project/school
+              url: /en/project/school
               weight: 1
             - name: Personal Projects
-              url: /project/personal
+              url: /en/project/personal
               weight: 2
         - name: Contact
-          url: /contact
+          url: /en/contact
           weight: 40
         
 
