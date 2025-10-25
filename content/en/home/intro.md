@@ -10,7 +10,7 @@ weight: 10
 design:
     show_social: true
 
-author: admin
+author: authors/admin
 #design:
 #  background:
 #    color: '#090a0b'
