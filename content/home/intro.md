@@ -41,6 +41,38 @@ author: admin
 <meta name="twitter:description" content="전북대학교 산업정보시스템공학과 황경재 학생의 포트폴리오 사이트입니다. 정보보안, 웹해킹, CTF, 웹개발 프로젝트를 소개합니다.">
 <meta name="twitter:image" content="https://hwang-pro.github.io/myfirstportfolio/kakao_profile.jpg">
 
+<!-- 구조화된 데이터 (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "황경재",
+  "alternateName": "Hwang Kyung-jae",
+  "description": "전북대학교 산업정보시스템공학과 정보보안 전공 학생",
+  "url": "https://hwang-pro.github.io/myfirstportfolio/",
+  "image": "https://hwang-pro.github.io/myfirstportfolio/kakao_profile.jpg",
+  "sameAs": [
+    "https://github.com/hwang-pro"
+  ],
+  "jobTitle": "정보보안 전공 학생",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "전북대학교 산업정보시스템공학과"
+  },
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "전북대학교"
+  },
+  "knowsAbout": [
+    "정보보안",
+    "웹해킹",
+    "CTF",
+    "웹개발",
+    "프로그래밍"
+  ]
+}
+</script>
+
 <div style="text-align: center; margin: 2rem 0;">
   <p style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;">
     👋 안녕하세요, 저는 전북대에 재학중인 정보보안에 관심이 있는 학생 황경재입니다!

@@ -26,8 +26,8 @@ experience:
     company: 전북대학교 산업정보시스템공학과
     company_url: 'https://ise.jbnu.ac.kr/ise/index.do'
     location: 전주시, 전라북도
-    date_start: '2023-03-01'
-    date_end: '2024-02-28'
+    date_start: '2024-03-01'
+    date_end: '2025-02-28'
     description: |2-
         * **직책**: 산업정보시스템공학과 38대 학생회장
         * **주요업무**: 학과 행사 기획 및 운영, 학생 복지 증진
@@ -38,7 +38,7 @@ experience:
     company: 전북대학교 컴퓨터인공지능학부 RAMS
     company_url: 'https://csai.jbnu.ac.kr/csai/index.do'
     location: 전주시, 전라북도
-    date_start: '2022-03-01'
+    date_start: '2025-09-01'
     date_end: ''
     description: |2-
         * **동아리명**: RAMS (정보보안 동아리)
