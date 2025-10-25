@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 황경재 Portfolio - 전북대 정보보안 학생 # Website name
-baseURL: 'https://hwang-pro.github.io/myfirstportfolio/' # Website URL
+baseURL: 'https://hwang-pro.github.io/myfirstportfolio' # Website URL
 
 # 다국어 지원 설정
 languages:
@@ -20,24 +20,27 @@ languages:
     menus:
       main:
         - name: 홈
-          url: /
+          url: /ko/
           weight: 10
         - name: 자기소개
-          url: about/
+          url: /ko/about
           weight: 20
         - name: 프로젝트
-          url: project/
+          url: /ko/project
           weight: 30
           children:
             - name: 학교 프로젝트
-              url: project/school/
+              url: /ko/project/school
               weight: 1
             - name: 개인 프로젝트
-              url: project/personal/
+              url: /ko/project/personal
               weight: 2
         - name: 연락처
-          url: contact/
+          url: /ko/contact
           weight: 40
+        - name: English
+          url: /en/
+          weight: 50
         
   
   en:
@@ -74,7 +77,7 @@ languages:
 
 # 언어 전환 설정
 defaultContentLanguage: ko
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 # 다국어 UI 활성화
 params:
