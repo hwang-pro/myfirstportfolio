@@ -5,8 +5,7 @@
 
 title: 황경재 Portfolio - 전북대 산업정보시스템공학과 학생 # Website name
 baseURL: 'https://hwang-pro.github.io/myfirstportfolio/'
-relativeURLs: false
-canonifyURLs: true
+
 # 다국어 지원 설정
 languages:
   ko:
