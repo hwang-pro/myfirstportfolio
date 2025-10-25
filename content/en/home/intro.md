@@ -21,9 +21,9 @@ author: admin
 ---
 
 <!-- SEO Meta Tags -->
-<meta name="description" content="Portfolio website of Hwang Kyung-jae, a student at Jeonbuk National University's Department of Industrial Information Systems Engineering. Introducing information security, web hacking, CTF, and web development projects.">
-<meta name="keywords" content="Hwang Kyung-jae, JBNU, information security, web hacking, CTF, web development, portfolio, Industrial Information Systems Engineering, Computer Science and AI">
-<meta name="author" content="Hwang Kyung-jae">
+<meta name="description" content="Portfolio website of Hwang Kyeong Jae, a student at Jeonbuk National University's Department of Industrial Information Systems Engineering. Introducing information security, web hacking, CTF, and web development projects.">
+<meta name="keywords" content="Hwang Kyeong Jae, JBNU, information security, web hacking, CTF, web development, portfolio, Industrial Information Systems Engineering, Computer Science and AI">
+<meta name="author" content="Hwang Kyeong Jae">
 
 <!-- Open Graph Meta Tags (KakaoTalk representative image) -->
 <meta property="og:title" content="Hwang Kyung-jae Portfolio - JBNU Industrial Information Systems Engineering Student">

@@ -1,6 +1,6 @@
 ---
-title: "Linux 시스템 관리"
-summary: "Linux 운영체제 학습 및 시스템 관리"
+title: "Linux System Administration"
+summary: "Linux operating system learning and system administration"
 tags:
   - linux
   - system
@@ -13,24 +13,24 @@ image:
   preview_only: false
 ---
 
-## 🎯 학습 목표
+## 🎯 Learning Goals
 
-Linux 운영체제의 기본 개념과 시스템 관리 방법을 학습합니다.
+Learning the basic concepts of the Linux operating system and system administration methods.
 
-## 📚 학습 내용
-- **기본 명령어**: ls, cd, mkdir, rm 등
-- **파일 시스템**: 권한 관리, 링크
-- **프로세스 관리**: ps, top, kill
-- **네트워크 설정**: ifconfig, netstat
-- **쉘 스크립팅**: bash 스크립트 작성
+## 📚 Learning Content
+- **Basic Commands**: ls, cd, mkdir, rm, etc.
+- **File System**: Permission management, links
+- **Process Management**: ps, top, kill
+- **Network Configuration**: ifconfig, netstat
+- **Shell Scripting**: Writing bash scripts
 
-## 🔧 실습 프로젝트
-- 서버 환경 구축
-- 웹 서버 설정 (Apache/Nginx)
-- 데이터베이스 설치 및 설정
-- 자동화 스크립트 작성
+## 🔧 Practical Projects
+- Server environment setup
+- Web server configuration (Apache/Nginx)
+- Database installation and configuration
+- Automation script writing
 
-## 📈 학습 성과
-- 시스템 관리 능력 향상
-- 명령어 라인 활용 능력
-- 서버 운영 경험 습득
+## 📈 Learning Achievements
+- Improved system administration capabilities
+- Command line utilization skills
+- Server operation experience acquisition

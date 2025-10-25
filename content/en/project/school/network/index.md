@@ -1,6 +1,6 @@
 ---
-title: "네트워크 기초"
-summary: "네트워크 이론과 실습을 통한 네트워킹 이해"
+title: "Network Fundamentals"
+summary: "Understanding networking through network theory and practice"
 tags:
   - network
   - school
@@ -13,23 +13,23 @@ image:
   preview_only: false
 ---
 
-## 🎯 학습 목표
+## 🎯 Learning Goals
 
-네트워크의 기본 개념과 실제 네트워킹 기술을 학습합니다.
+Learning the basic concepts of networks and actual networking technologies.
 
-## 📚 학습 내용
-- **네트워크 기본 개념**: OSI 7계층, TCP/IP 모델
-- **프로토콜**: HTTP, HTTPS, FTP, SSH
-- **라우팅과 스위칭**: 네트워크 장비 이해
-- **보안**: 방화벽, VPN, 암호화
+## 📚 Learning Content
+- **Network Basic Concepts**: OSI 7-layer, TCP/IP model
+- **Protocols**: HTTP, HTTPS, FTP, SSH
+- **Routing and Switching**: Understanding network equipment
+- **Security**: Firewall, VPN, encryption
 
-## 🔧 실습 프로젝트
-- 네트워크 토폴로지 설계
-- 패킷 분석 (Wireshark)
-- 서버 간 통신 구현
-- 네트워크 보안 설정
+## 🔧 Practical Projects
+- Network topology design
+- Packet analysis (Wireshark)
+- Server-to-server communication implementation
+- Network security configuration
 
-## 📈 학습 성과
-- 네트워크 아키텍처 이해
-- 프로토콜 분석 능력
-- 네트워크 보안 인식 향상
+## 📈 Learning Achievements
+- Understanding of network architecture
+- Protocol analysis capabilities
+- Enhanced network security awareness

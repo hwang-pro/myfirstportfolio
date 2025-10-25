@@ -1,6 +1,6 @@
 ---
-title: "운영체제 이론"
-summary: "운영체제의 핵심 개념과 시스템 관리 학습"
+title: "Operating System Theory"
+summary: "Learning core concepts of operating systems and system management"
 tags:
   - os
   - school
@@ -13,23 +13,23 @@ image:
   preview_only: false
 ---
 
-## 🎯 학습 목표
+## 🎯 Learning Goals
 
-운영체제의 핵심 개념과 시스템 관리 방법을 체계적으로 학습합니다.
+Systematically learning the core concepts of operating systems and system management methods.
 
-## 📚 학습 내용
-- **프로세스 관리**: 스케줄링, 동기화, 데드락
-- **메모리 관리**: 가상 메모리, 페이징, 세그멘테이션
-- **파일 시스템**: 디렉토리 구조, 접근 제어
-- **입출력 시스템**: 디바이스 드라이버, 인터럽트
+## 📚 Learning Content
+- **Process Management**: Scheduling, synchronization, deadlock
+- **Memory Management**: Virtual memory, paging, segmentation
+- **File System**: Directory structure, access control
+- **I/O System**: Device drivers, interrupts
 
-## 🔧 실습 프로젝트
-- 프로세스 시뮬레이터 구현
-- 메모리 할당 알고리즘 구현
-- 간단한 파일 시스템 설계
-- 시스템 모니터링 도구 개발
+## 🔧 Practical Projects
+- Process simulator implementation
+- Memory allocation algorithm implementation
+- Simple file system design
+- System monitoring tool development
 
-## 📈 학습 성과
-- 시스템 내부 동작 원리 이해
-- 알고리즘 설계 능력 향상
-- 시스템 성능 최적화 사고
+## 📈 Learning Achievements
+- Understanding of system internal operation principles
+- Improved algorithm design capabilities
+- System performance optimization thinking

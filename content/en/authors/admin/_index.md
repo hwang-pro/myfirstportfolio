@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Hwang Kyung-jae
+title: Hwang Kyeong Jae
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 'Jeonbuk National University, Department of Industrial Information Systems Engineering, Computer Science and AI'
+role: 'Jeonbuk National University, Department of Industrial Information Systems Engineering (Double Major: Computer Science and AI)'
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hwang Kyung-jae studying information security and web hacking at Jeonbuk National University's Department of Industrial Information Systems Engineering.
+bio: Hwang Kyeong Jae studying Industrial Information Systems Engineering at Jeonbuk National University with a double major in Computer Science and AI, interested in information security.
 
 #interests:
 #- Artificial Intelligence
@@ -91,9 +91,9 @@ social:
 #email: ""
 ---
 
-Hello! I am Hwang Kyung-jae, currently studying at Jeonbuk National University's Department of Industrial Information Systems Engineering. 
+Hello! I am Hwang Kyeong Jae, currently studying Industrial Information Systems Engineering at Jeonbuk National University. 
 I have chosen Computer Science and Artificial Intelligence as my double major. I am interested in information security, and I have a particular interest in web hacking and am studying hard in this field.
 
-At Jeonbuk National University, I am majoring in information security and conducting various projects and research, acquiring practical security skills through CTF competitions and wargames.
+At Jeonbuk National University, I am conducting various projects and research related to information security, acquiring practical security skills through CTF competitions and wargames.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
