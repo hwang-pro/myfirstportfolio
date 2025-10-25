@@ -119,3 +119,19 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+minify:
+  _merge: deep
+
+# 다국어 콘텐츠 경로 매핑
+module:
+  mounts:
+    - source: content/ko
+      target: content
+      lang: ko
+    - source: content/en
+      target: content
+      lang: en
+    - source: static
+      target: static
+    - source: assets
+      target: assets
