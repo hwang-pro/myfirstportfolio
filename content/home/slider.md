@@ -75,13 +75,39 @@ function showSlide(n) {
 </script>
 
 <style>
+/* 전체 너비로 확장 */
+body {
+  overflow-x: hidden;
+}
+
+/* 섹션을 전체 너비로 강제 */
+.home-section,
+section {
+  max-width: 100% !important;
+  width: 100vw !important;
+  margin-left: calc(-50vw + 50%) !important;
+  padding: 0 !important;
+}
+
+/* 컨테이너도 전체 너비로 */
+.container {
+  max-width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  width: 100% !important;
+}
+
 .slider-container {
   position: relative;
-  width: 100%;
+  width: 100vw;
   height: 500px;
   overflow: hidden;
   margin: 0;
   padding: 0;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 .slide {
@@ -147,6 +173,7 @@ function showSlide(n) {
   cursor: pointer;
   z-index: 3;
   transition: all 0.3s;
+  border-radius: 5px;
 }
 
 .slider-controls button:hover {
@@ -178,5 +205,20 @@ function showSlide(n) {
 .dot.active, .dot:hover {
   background: white;
   transform: scale(1.3);
+}
+
+/* 모바일 반응형 */
+@media (max-width: 768px) {
+  .slider-container {
+    height: 350px;
+  }
+  
+  .slide-content h1 {
+    font-size: 2rem;
+  }
+  
+  .slide-content p {
+    font-size: 1.1rem;
+  }
 }
 </style>
