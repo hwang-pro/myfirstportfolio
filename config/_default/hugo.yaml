@@ -20,27 +20,25 @@ languages:
     menus:
       main:
         - name: 홈
-          url: /ko/
+          url: /
           weight: 10
         - name: 자기소개
-          url: /ko/about
+          url: about/
           weight: 20
         - name: 프로젝트
-          url: /ko/project
+          url: project/
           weight: 30
           children:
             - name: 학교 프로젝트
-              url: /ko/project/school
+              url: project/school/
               weight: 1
             - name: 개인 프로젝트
-              url: /ko/project/personal
+              url: project/personal/
               weight: 2
         - name: 연락처
-          url: /ko/contact
+          url: contact/
           weight: 40
-        - name: English
-          url: /en/
-          weight: 50
+        
   
   en:
     languageName: English
@@ -72,9 +70,7 @@ languages:
         - name: Contact
           url: /en/contact
           weight: 40
-        - name: 한국어
-          url: /ko/
-          weight: 50
+        
 
 # 언어 전환 설정
 defaultContentLanguage: ko
