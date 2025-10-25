@@ -13,15 +13,57 @@ languages:
     weight: 1
     title: 황경재 Portfolio - 전북대 정보보안 학생
     params:
-      description: 전북대학교 산업정보시스템공학과 황경재 학생의 포트폴리오 사이트입니다. 정보보안, 웹해킹, CTF, 웹개발 프로젝트를 소개합니다.
-      keywords: 황경재, 전북대, 정보보안, 웹해킹, CTF, 웹개발, 포트폴리오, 산업정보시스템공학과, 컴퓨터인공지능학부
+      description: 전북대학교 산업정보시스템공학과 황경재 학생의 포트폴리오 사이트입니다.
+      keywords: 황경재, 전북대, 정보보안, 웹해킹, CTF, 웹개발, 포트폴리오
+      language: ko
+      language_selector: true
+    menus:
+      main:
+        - name: 홈
+          pageRef: /
+          weight: 10
+        - name: 프로젝트  
+          pageRef: /#projects
+          weight: 20
+        - name: 연락처
+          pageRef: /#contact
+          weight: 30
+        - name: English
+          url: /en/
+          weight: 40
+  
   en:
     languageName: English
     weight: 2
     title: Hwang Kyung-jae Portfolio - JBNU Information Security Student
     params:
-      description: Portfolio website of Hwang Kyung-jae, a student at Jeonbuk National University's Department of Industrial Information Systems Engineering. Introducing information security, web hacking, CTF, and web development projects.
-      keywords: Hwang Kyung-jae, JBNU, information security, web hacking, CTF, web development, portfolio, industrial information systems engineering, computer artificial intelligence
+      description: Portfolio website of Hwang Kyung-jae, a student at Jeonbuk National University.
+      keywords: Hwang Kyung-jae, JBNU, information security, web hacking, CTF, web development
+      language: en
+      language_selector: true
+    menus:
+      main:
+        - name: Home
+          pageRef: /
+          weight: 10
+        - name: Projects
+          pageRef: /#projects
+          weight: 20
+        - name: Contact
+          pageRef: /#contact
+          weight: 30
+        - name: 한국어
+          url: /ko/
+          weight: 40
+
+# 언어 전환 설정
+defaultContentLanguage: ko
+defaultContentLanguageInSubdir: true
+
+# 다국어 UI 활성화
+params:
+  language_selector: true
+  show_language_selector: true
 
 # Google Analytics 설정 (SEO를 위해 활성화)
 googleAnalytics: "G-XXXXXXXXXX"  # 실제 GA ID로 교체 필요
@@ -55,9 +97,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ko
 hasCJKLanguage: true
-defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################

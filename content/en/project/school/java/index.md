@@ -1,0 +1,34 @@
+---
+title: "Java 프로그래밍"
+summary: "Java 언어 학습 및 프로젝트 개발"
+tags:
+  - java
+  - programming
+  - school
+date: 2024-01-01
+
+image:
+  filename: "java.png"
+  focal_point: "Center"
+  preview_only: false
+---
+
+## 🎯 학습 목표
+
+Java 프로그래밍 언어를 체계적으로 학습하고 실전 프로젝트를 개발합니다.
+
+## 📚 학습 내용
+- **기초 문법**: 변수, 조건문, 반복문
+- **객체지향 프로그래밍**: 클래스, 상속, 다형성
+- **컬렉션 프레임워크**: List, Set, Map
+- **예외 처리**: try-catch, finally
+
+## 🔧 프로젝트
+- 계산기 프로그램
+- 학생 관리 시스템
+- 간단한 게임 개발
+
+## 📈 학습 성과
+- 객체지향 사고방식 습득
+- 코드 재사용성 향상
+- 디버깅 능력 개발
