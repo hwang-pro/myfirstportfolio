@@ -20,6 +20,10 @@ title: Hello
 author: admin
 ---
 
+<!-- SEO 메타 태그 -->
+<meta name="description" content="전북대학교 산업정보시스템공학과 황경재 학생 소개. 정보보안, 웹해킹 전문가로 성장하는 학생입니다.">
+<meta name="keywords" content="황경재, 전북대, 자기소개, 정보보안, 웹해킹, 학생, 포트폴리오">
+
 <style>
 .wg-about .portrait-title h2,
 .wg-about .portrait-title h3 {

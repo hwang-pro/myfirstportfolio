@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 황경재 portfolio # Website name
+title: 황경재 Portfolio - 전북대 정보보안 학생 # Website name
 baseURL: 'https://hwang-pro.github.io/myfirstportfolio/' # Website URL
 
 # Disable Google Analytics completely
