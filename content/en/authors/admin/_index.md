@@ -44,7 +44,7 @@ bio: Hwang Kyeong Jae studying Industrial Information Systems Engineering at Jeo
 social:
   - icon: comments
     icon_pack: fas
-    link: "/myfirstportfolio/kakao_profile.jpg"   
+    link: "https://hwang-pro.github.io/myfirstportfolio/kakao_profile.jpg"  
   - icon: github
     icon_pack: fab
     link: "https://github.com/hwang-pro/myfirstportfolio"
