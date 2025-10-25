@@ -17,7 +17,6 @@ content:
       align: center
       background:
         image: '/img/slide1.jpg'
-        position: center
         color: '#1a1a2e'
         gradient_start: '#1a1a2e'
         gradient_end: '#16213e'
@@ -27,7 +26,6 @@ content:
       align: center
       background:
         image: '/img/slide2.jpg'
-        position: center
         color: '#0f3460'
         gradient_start: '#0f3460'
         gradient_end: '#16213e'
@@ -37,7 +35,6 @@ content:
       align: center
       background:
         image: '/img/slide3.jpg'
-        position: center
         color: '#533483'
         gradient_start: '#533483'
         gradient_end: '#1a1a2e'
