@@ -24,9 +24,113 @@ marketing:
     org_name: '전북대학교 산업정보시스템공학과'
     description: '전북대학교 산업정보시스템공학과 황경재 학생의 포트폴리오 사이트입니다. 정보보안, 웹해킹, CTF, 웹개발 프로젝트를 소개합니다.'
     twitter: 'GetResearchDev'
+    image: 'kakao_profile.jpg'  # 카카오톡 대표 이미지
   verification:
     google: ''
     baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: r # 오른쪽 정렬로 변경
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    show_title: true  # 사이트 제목 표시
+    highlight_active_link: false
+    logo:
+      text: ""  # 빈 텍스트
+      image: media/logo.png  # 이미지 로고
+    menu:
+      - name: 홈
+        url: /
+        weight: 10
+      - name: 자기소개
+        url: about/
+        weight: 20
+      - name: 프로젝트
+        url: project/
+        weight: 30
+        hasChildren: true
+      - name: 학교 프로젝트
+        parent: 프로젝트
+        url: project/school/
+        weight: 31
+      - name: 개인 프로젝트
+        parent: 프로젝트
+        url: project/personal/
+        weight: 32
+      - name: 연락처
+        url: about/contact/
+        weight: 40
+
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: 'wowchemy'
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: false
 
 # Site header
 

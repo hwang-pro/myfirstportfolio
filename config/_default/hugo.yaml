@@ -10,6 +10,16 @@ baseURL: 'https://hwang-pro.github.io/myfirstportfolio/' # Website URL
 googleAnalytics: ""
 disableAnalytics: true
 
+# Site images and favicon
+images:
+  - src: "kakao_profile.jpg"
+    title: "황경재 Portfolio"
+    params:
+      alt: "황경재 전북대 정보보안 학생 포트폴리오"
+
+# Favicon
+favicon: "media/icon.png"
+
 ############################
 ## PAGE OPTIONS
 ############################
