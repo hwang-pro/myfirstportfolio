@@ -1,5 +1,5 @@
 ---
-title: 학교 프로젝트
+title: School Projects
 type: collection
 view: card
 ---

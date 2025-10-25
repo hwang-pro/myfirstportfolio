@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 🎓 학력사항
-subtitle: "꾸준한 성장과 발전의 여정"
+title: 🎓 Education
+subtitle: "A journey of continuous growth and development"
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -22,49 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 학사과정 (재학중)
-    company: 전북대학교 산업정보시스템공학과
+  - title: Bachelor's Degree (Currently Enrolled)
+    company: Jeonbuk National University, Department of Industrial Information Systems Engineering
     company_url: 'https://ise.jbnu.ac.kr/ise/index.do'
-    location: 전주시, 전라북도
+    location: Jeonju, Jeollabuk-do
     date_start: '2020-03-01'
     date_end: ''
     description: |2-
-        * **전공**: 산업정보시스템공학과 (정보보안 전공)
-        * **복수전공**: 컴퓨터인공지능학부
-        * **학점**: 3.8/4.5 (우수학점)
-        * **관심분야**: 정보보안, 웹해킹, 사이버보안
-        * **동아리**: 정보보안 동아리 RAMS 소속
-        * **예상졸업**: 2025년 2월
+        * **Major**: Industrial Information Systems Engineering (Information Security)
+        * **Double Major**: Computer Science and Artificial Intelligence
+        * **GPA**: 3.8/4.5 (Excellent Academic Performance)
+        * **Interests**: Information Security, Web Hacking, Cybersecurity
+        * **Club**: Member of Information Security Club RAMS
+        * **Expected Graduation**: February 2025
 
-  - title: 고등학교 졸업
-    company: 익산 남성고등학교
-    location: 익산시, 전라북도
+  - title: High School Graduate
+    company: Iksan Namseong High School
+    location: Iksan, Jeollabuk-do
     date_start: '2017-03-01'
     date_end: '2019-02-28'
     description: |2-
-        * **졸업년도**: 2019년 2월 졸업
-        * **특기사항**: 농구부 활동
-        * **성취**: 체육활동을 통한 리더십 함양
+        * **Graduation Year**: February 2019
+        * **Activities**: Basketball Team Member
+        * **Achievement**: Leadership development through sports activities
 
-  - title: 중학교 졸업
-    company: 익산 어양중학교
-    location: 익산시, 전라북도
+  - title: Middle School Graduate
+    company: Iksan Eoyang Middle School
+    location: Iksan, Jeollabuk-do
     date_start: '2014-03-01'
     date_end: '2016-02-29'
     description: |2-
-        * **졸업년도**: 2016년 2월 졸업
-        * **특기사항**: 농구부 활동
-        * **성취**: 팀워크와 협동심 개발
+        * **Graduation Year**: February 2016
+        * **Activities**: Basketball Team Member
+        * **Achievement**: Development of teamwork and cooperation skills
 
-  - title: 초등학교 졸업
-    company: 익산 어양초등학교
-    location: 익산시, 전라북도
+  - title: Elementary School Graduate
+    company: Iksan Eoyang Elementary School
+    location: Iksan, Jeollabuk-do
     date_start: '2007-03-01'
     date_end: '2013-02-28'
     description: |2-
-        * **졸업년도**: 2013년 2월 졸업
-        * **특기사항**: 농구부 활동
-        * **성취**: 기초 체력과 운동능력 향상
+        * **Graduation Year**: February 2013
+        * **Activities**: Basketball Team Member
+        * **Achievement**: Improvement of basic physical fitness and athletic abilities
 
 design:
   columns: '1'

@@ -27,9 +27,9 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
 
-    - name: 개인 프로젝트
+    - name: Personal Projects
       tag: personal
-    - name: 학교 프로젝트
+    - name: School Projects
       tag: school
 
 design:
