@@ -12,22 +12,22 @@ design:
 <div class="slider-container">
   <div class="slide active" style="background-image: url('https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1920&q=80');">
     <div class="slide-content">
-      <h1>정보보안 학습</h1>
-      <p>체계적인 정보보안 지식 습득</p>
+      <h1>Information Security Learning</h1>
+      <p>Systematic acquisition of information security knowledge</p>
     </div>
   </div>
   
   <div class="slide" style="background-image: url('https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1920&q=80');">
     <div class="slide-content">
-      <h1>웹 해킹 연구</h1>
-      <p>다양한 웹 취약점 분석 및 연구</p>
+      <h1>Web Hacking Research</h1>
+      <p>Analysis and research of various web vulnerabilities</p>
     </div>
   </div>
   
   <div class="slide" style="background-image: url('https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1920&q=80');">
     <div class="slide-content">
       <h1>CTF/WARGAME</h1>
-      <p>실전 문제 해결 능력 향상</p>
+      <p>Enhancing practical problem-solving skills</p>
     </div>
   </div>
   
