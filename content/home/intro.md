@@ -26,14 +26,14 @@ author: admin
 <meta name="author" content="황경재">
 
 <!-- Open Graph 메타 태그 (카카오톡 대표 이미지) -->
-<meta property="og:title" content="황경재 Portfolio - 전북대 정보보안 학생">
+<meta property="og:title" content="황경재 Portfolio - 전북대 산업정보시스템공학과과 학생">
 <meta property="og:description" content="전북대학교 산업정보시스템공학과 황경재 학생의 포트폴리오 사이트입니다. 정보보안, 웹해킹, CTF, 웹개발 프로젝트를 소개합니다.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://hwang-pro.github.io/myfirstportfolio/">
 <meta property="og:image" content="https://hwang-pro.github.io/myfirstportfolio/kakao_profile.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="황경재 전북대 정보보안 학생 포트폴리오">
+<meta property="og:image:alt" content="황경재 전북대 산업정보시스템공학과 학생 포트폴리오">
 
 <!-- Twitter Card 메타 태그 -->
 <meta name="twitter:card" content="summary_large_image">
