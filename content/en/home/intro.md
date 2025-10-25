@@ -75,7 +75,7 @@ author: admin
 
 <div style="text-align: center; margin: 2rem 0;">
   <p style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;">
-    👋 Hello, I'm Hwang Kyung-jae, a student at JBNU interested in information security!
+    👋 Hello, I'm Hwang Kyeong-jae, a student at JBNU interested in information security!
   </p>
   <p style="margin: 1rem 0 0 0; font-size: 1.1rem;">
     Although it's still a modest portfolio, I'll work hard to fill it up😍
