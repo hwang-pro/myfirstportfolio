@@ -29,7 +29,9 @@ languages:
       language_selector: true
 # 언어 전환 설정
 defaultContentLanguage: ko
-defaultContentLanguageInSubdir: false
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
+removePathAccents: true
 
 # 다국어 UI 활성화
 params:

@@ -26,6 +26,4 @@ main:
     url: /en/contact
     weight: 40
   
-  - name: 한국어
-    url: /ko/
-    weight: 50
+  
