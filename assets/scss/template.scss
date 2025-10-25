@@ -26,7 +26,9 @@
   color: #495057;
   font-weight: 500;
   font-size: 0.8rem;
-  width: 50px;
+  width: 50px !important;
+  flex-grow: 0 !important;
+  flex-shrink: 0 !important;
   height: 35px;
 }
 
