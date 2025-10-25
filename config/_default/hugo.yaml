@@ -6,6 +6,23 @@
 title: 황경재 Portfolio - 전북대 정보보안 학생 # Website name
 baseURL: 'https://hwang-pro.github.io/myfirstportfolio/' # Website URL
 
+# 다국어 지원 설정
+languages:
+  ko:
+    languageName: 한국어
+    weight: 1
+    title: 황경재 Portfolio - 전북대 정보보안 학생
+    params:
+      description: 전북대학교 산업정보시스템공학과 황경재 학생의 포트폴리오 사이트입니다. 정보보안, 웹해킹, CTF, 웹개발 프로젝트를 소개합니다.
+      keywords: 황경재, 전북대, 정보보안, 웹해킹, CTF, 웹개발, 포트폴리오, 산업정보시스템공학과, 컴퓨터인공지능학부
+  en:
+    languageName: English
+    weight: 2
+    title: Hwang Kyung-jae Portfolio - JBNU Information Security Student
+    params:
+      description: Portfolio website of Hwang Kyung-jae, a student at Jeonbuk National University's Department of Industrial Information Systems Engineering. Introducing information security, web hacking, CTF, and web development projects.
+      keywords: Hwang Kyung-jae, JBNU, information security, web hacking, CTF, web development, portfolio, industrial information systems engineering, computer artificial intelligence
+
 # Google Analytics 설정 (SEO를 위해 활성화)
 googleAnalytics: "G-XXXXXXXXXX"  # 실제 GA ID로 교체 필요
 disableAnalytics: false
@@ -38,9 +55,9 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguage: ko
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
