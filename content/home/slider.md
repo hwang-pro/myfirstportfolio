@@ -17,7 +17,7 @@ content:
       align: center
       background:
         image:
-          filename: slide1.jpg
+          filename: img/slide1.jpg
           filters:
             brightness: 0.8
         position: center
@@ -28,7 +28,7 @@ content:
       align: center
       background:
         image:
-          filename: slide2.jpg
+          filename: img/slide2.jpg
           filters:
             brightness: 0.8
         position: center
@@ -39,7 +39,7 @@ content:
       align: center
       background:
         image:
-          filename: slide3.jpg
+          filename: img/slide3.jpg
           filters:
             brightness: 0.8
         position: center
