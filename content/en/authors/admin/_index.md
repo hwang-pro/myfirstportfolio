@@ -96,4 +96,4 @@ I have chosen Computer Science and Artificial Intelligence as my double major. I
 
 At Jeonbuk National University, I am conducting various projects and research related to information security, acquiring practical security skills through CTF competitions and wargames.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download my resumé as a PDF.{{< /staticref >}} 

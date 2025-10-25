@@ -96,4 +96,4 @@ social:
 
 전북대학교에서 정보보안을 전공하며 다양한 프로젝트와 연구를 진행하고 있으며, CTF 대회와 워게임을 통해 실전 보안 기술을 습득하고 있습니다.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}제 이력서를 다운로드 해보세요{{< /staticref >}}
