@@ -1,29 +1,22 @@
 main:
   - name: Home
-    url: /en/
+    url: /
     weight: 10
-  
   - name: About
-    url: /en/about
+    url: /about
     weight: 20
-  
   - name: Projects
-    url: /en/project
+    url: /project
     weight: 30
     hasChildren: true
-  
   - name: School Projects
     parent: Projects
-    url: /en/project/school
+    url: /project/school
     weight: 31
-  
   - name: Personal Projects
     parent: Projects
-    url: /en/project/personal
+    url: /project/personal
     weight: 32
-  
   - name: Contact
-    url: /en/contact
+    url: /contact
     weight: 40
-  
-  

@@ -1,28 +1,22 @@
 main:
   - name: 홈
-    url: /ko/
+    url: /
     weight: 10
-  
   - name: 자기소개
-    url: /ko/about
+    url: /about
     weight: 20
-  
   - name: 프로젝트
-    url: /ko/project
+    url: /project
     weight: 30
     hasChildren: true
-  
   - name: 학교 프로젝트
     parent: 프로젝트
-    url: /ko/project/school
+    url: /project/school
     weight: 31
-  
   - name: 개인 프로젝트
     parent: 프로젝트
-    url: /ko/project/personal
+    url: /project/personal
     weight: 32
-  
   - name: 연락처
-    url: /ko/contact
+    url: /contact
     weight: 40
- 
