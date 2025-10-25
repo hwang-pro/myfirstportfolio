@@ -46,3 +46,4 @@ content:
               brightness: 0.4
           position: center
           color: '#000'
+---
