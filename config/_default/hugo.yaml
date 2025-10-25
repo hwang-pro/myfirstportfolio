@@ -74,7 +74,7 @@ languages:
 
 # 언어 전환 설정
 defaultContentLanguage: ko
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 # 다국어 UI 활성화
 params:
