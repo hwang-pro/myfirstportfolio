@@ -19,7 +19,7 @@ content:
         image:
           filename: slide1.jpg
           filters:
-            brightness: 0.4
+            brightness: 0.8
         position: center
         color: '#000'
     
@@ -30,7 +30,7 @@ content:
         image:
           filename: slide2.jpg
           filters:
-            brightness: 0.4
+            brightness: 0.8
         position: center
         color: '#000'
     
@@ -41,7 +41,7 @@ content:
         image:
           filename: slide3.jpg
           filters:
-            brightness: 0.4
+            brightness: 0.8
         position: center
         color: '#000'
 ---
