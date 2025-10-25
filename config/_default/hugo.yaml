@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 황경재 Portfolio - 전북대 정보보안 학생 # Website name
-baseURL: 'https://hwang-pro.github.io/myfirstportfolio' # Website URL
+baseURL: 'https://hwang-pro.github.io' # Website URL
 
 # 다국어 지원 설정
 languages:
