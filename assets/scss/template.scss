@@ -1,9 +1,19 @@
 /* Hugo 데모 템플릿 스타일 - 버튼 호버 이벤트 */
 
-/* 포트폴리오 필터 버튼 스타일 */
-.pub-filters {
-  text-align: center;
-  margin: 2rem 0;
+/* 포트폴리오 필터 버튼 중앙 정렬 강화 */
+.pub-filters,
+.isotope-filters,
+.btn-group,
+.filter-button-group,
+.wg-portfolio .pub-filters,
+.wg-portfolio .isotope-filters {
+  text-align: center !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin: 2rem auto !important;
+  width: 100% !important;
+  flex-wrap: wrap !important;
 }
 
 .pub-filters .btn {
