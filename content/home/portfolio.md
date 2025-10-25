@@ -34,8 +34,8 @@ content:
 
 design:
   view: masonry
-  columns: "1"
+  columns: "2"
   image:
     fit: cover     
-    width: 70%     
+    width: 50%     
 ---
