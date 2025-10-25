@@ -60,14 +60,14 @@ languages:
           url: /en/about
           weight: 20
         - name: Projects
-          url: /en/projects
+          url: /en/project
           weight: 30
           children:
             - name: School Projects
-              url: /en/projects/school
+              url: /en/project/school
               weight: 1
             - name: Personal Projects
-              url: /en/projects/personal
+              url: /en/project/personal
               weight: 2
         - name: Contact
           url: /en/contact
